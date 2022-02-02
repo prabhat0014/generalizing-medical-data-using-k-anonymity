@@ -1,1 +1,1 @@
-# generalizing-medical-data-using-k-anonymity
+# generalizing medical data using k-anonymity
